@@ -6,5 +6,8 @@ venv/
 *.db
 *.sqlite3
 seen.json
+pipeline.json
+last_scan.json
+config.json
 config.local.json
 .DS_Store
